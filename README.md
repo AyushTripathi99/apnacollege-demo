@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Author - Ayush Tripathi
+Author - Ayush Tripathi (Data Analyst)
